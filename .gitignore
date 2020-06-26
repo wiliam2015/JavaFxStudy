@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+*.iml
+*/target/*
+out
+/aladdin-web/*.log
+
+target
+/*/*.iml
+/.idea
+
+*.project
+logs/
+.settings/
+.project
+.classpath
+*.MF
